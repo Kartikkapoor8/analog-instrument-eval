@@ -55,6 +55,568 @@
       "in_tok": 1439,
       "out_tok": 58,
       "cost": 0.025935
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:07\",\n  \"unit\": \"hours:minutes\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 58,
+      "cost": 0.025935
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:07\",\n  \"unit\": \"hours:minutes\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 58,
+      "cost": 0.025935
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:07\",\n  \"unit\": \"hours:minutes\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 58,
+      "cost": 0.025935
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:07\",\n  \"unit\": \"hours:minutes\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 58,
+      "cost": 0.025935
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:07\",\n  \"unit\": \"hours:minutes\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 58,
+      "cost": 0.025935
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:07\",\n  \"unit\": \"hours:minutes\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 58,
+      "cost": 0.025935
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:07\",\n  \"unit\": \"hours:minutes\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 58,
+      "cost": 0.025935
+    }
+  ],
+  "clock_003.png": [
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:51\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 56,
+      "cost": 0.025785
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:52\",\n  \"unit\": \"hours:minutes\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 58,
+      "cost": 0.025935
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:52\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 56,
+      "cost": 0.025785
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:51\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 56,
+      "cost": 0.025785
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:37\",\n  \"unit\": \"hours:minutes\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 58,
+      "cost": 0.025935
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:51\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 56,
+      "cost": 0.025785
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:11\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 56,
+      "cost": 0.025785
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:51\",\n  \"unit\": \"hours:minutes\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 58,
+      "cost": 0.025935
+    }
+  ],
+  "clock_004.png": [
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"11:30\",\n  \"unit\": \"hours\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 56,
+      "cost": 0.025785
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"11:30\",\n  \"unit\": \"hours\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 56,
+      "cost": 0.025785
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"11:30\",\n  \"unit\": \"hours\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 56,
+      "cost": 0.025785
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"11:30\",\n  \"unit\": \"hours:minutes\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 58,
+      "cost": 0.025935
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"11:30\",\n  \"unit\": \"hours\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 56,
+      "cost": 0.025785
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"11:30\",\n  \"unit\": \"hours:minutes\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 58,
+      "cost": 0.025935
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"11:30\",\n  \"unit\": \"hours\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 56,
+      "cost": 0.025785
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"11:30\",\n  \"unit\": \"hours\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 56,
+      "cost": 0.025785
+    }
+  ],
+  "clock_005.png": [
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"12:33\",\n  \"unit\": \"hours:minutes\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 58,
+      "cost": 0.025935
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"01:27\",\n  \"unit\": \"hours:minutes\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 58,
+      "cost": 0.025935
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"01:27\",\n  \"unit\": \"hours:minutes\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 58,
+      "cost": 0.025935
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"01:26\",\n  \"unit\": \"hours:minutes\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 58,
+      "cost": 0.025935
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"12:33\",\n  \"unit\": \"hours:minutes\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 58,
+      "cost": 0.025935
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"12:33\",\n  \"unit\": \"hours\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 56,
+      "cost": 0.025785
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"01:27\",\n  \"unit\": \"hours:minutes\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 58,
+      "cost": 0.025935
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"01:26\",\n  \"unit\": \"hours:minutes\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 58,
+      "cost": 0.025935
+    }
+  ],
+  "clock_006.png": [
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:22\",\n  \"unit\": \"hours:minutes\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 58,
+      "cost": 0.025935
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:22\",\n  \"unit\": \"hours:minutes\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 58,
+      "cost": 0.025935
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:22\",\n  \"unit\": \"hours:minutes\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 58,
+      "cost": 0.025935
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:22\",\n  \"unit\": \"hours:minutes\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 58,
+      "cost": 0.025935
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:22\",\n  \"unit\": \"hours:minutes\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 58,
+      "cost": 0.025935
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:22\",\n  \"unit\": \"hours:minutes\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 58,
+      "cost": 0.025935
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:22\",\n  \"unit\": \"hours:minutes\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 58,
+      "cost": 0.025935
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:22\",\n  \"unit\": \"hours:minutes\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 58,
+      "cost": 0.025935
+    }
+  ],
+  "clock_007.png": [
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:37\",\n  \"unit\": \"hours:minutes\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 58,
+      "cost": 0.025935
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:37\",\n  \"unit\": \"hours:minutes\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 58,
+      "cost": 0.025935
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:37\",\n  \"unit\": \"hours:minutes\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 58,
+      "cost": 0.025935
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:37\",\n  \"unit\": \"hours:minutes\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 58,
+      "cost": 0.025935
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:37\",\n  \"unit\": \"hours:minutes\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 58,
+      "cost": 0.025935
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:37\",\n  \"unit\": \"hours:minutes\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 58,
+      "cost": 0.025935
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:37\",\n  \"unit\": \"hours:minutes\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 58,
+      "cost": 0.025935
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:37\",\n  \"unit\": \"hours:minutes\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 58,
+      "cost": 0.025935
+    }
+  ],
+  "clock_008.png": [
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"08:45\",\n  \"unit\": \"hours\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 56,
+      "cost": 0.025785
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"08:45\",\n  \"unit\": \"hours:minutes\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 58,
+      "cost": 0.025935
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"08:45\",\n  \"unit\": \"hours:minutes\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 58,
+      "cost": 0.025935
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"03:30\",\n  \"unit\": \"hours\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 56,
+      "cost": 0.025785
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"03:30\",\n  \"unit\": \"hours\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 56,
+      "cost": 0.025785
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"05:45\",\n  \"unit\": \"hours:minutes\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 58,
+      "cost": 0.025935
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"03:30\",\n  \"unit\": \"hours:minutes\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 58,
+      "cost": 0.025935
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"03:30\",\n  \"unit\": \"hours:minutes\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 58,
+      "cost": 0.025935
+    }
+  ],
+  "clock_009.jpg": [
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"10:22\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1683,
+      "out_tok": 56,
+      "cost": 0.029445
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"10:22\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1683,
+      "out_tok": 56,
+      "cost": 0.029445
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"10:22\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1683,
+      "out_tok": 56,
+      "cost": 0.029445
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"10:22\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1683,
+      "out_tok": 56,
+      "cost": 0.029445
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"10:22\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1683,
+      "out_tok": 56,
+      "cost": 0.029445
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"10:22\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1683,
+      "out_tok": 56,
+      "cost": 0.029445
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"10:22\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1683,
+      "out_tok": 56,
+      "cost": 0.029445
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"10:22\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1683,
+      "out_tok": 56,
+      "cost": 0.029445
+    }
+  ],
+  "hygrometer_001.jpg": [
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"hygrometer\",\n  \"reading\": 78,\n  \"unit\": \"% rel.\",\n  \"scale_max\": 100,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1707,
+      "out_tok": 58,
+      "cost": 0.029955
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"hygrometer\",\n  \"reading\": 78,\n  \"unit\": \"% rel.\",\n  \"scale_max\": 100,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1707,
+      "out_tok": 58,
+      "cost": 0.029955
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"hygrometer\",\n  \"reading\": 78,\n  \"unit\": \"% rel.\",\n  \"scale_max\": 100,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1707,
+      "out_tok": 58,
+      "cost": 0.029955
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"hygrometer\",\n  \"reading\": 78,\n  \"unit\": \"% rel.\",\n  \"scale_max\": 100,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1707,
+      "out_tok": 58,
+      "cost": 0.029955
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"hygrometer\",\n  \"reading\": 78,\n  \"unit\": \"% rel.\",\n  \"scale_max\": 100,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1707,
+      "out_tok": 58,
+      "cost": 0.029955
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"hygrometer\",\n  \"reading\": 78,\n  \"unit\": \"% rel.\",\n  \"scale_max\": 100,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1707,
+      "out_tok": 58,
+      "cost": 0.029955
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"hygrometer\",\n  \"reading\": 78,\n  \"unit\": \"% rel.\",\n  \"scale_max\": 100,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1707,
+      "out_tok": 58,
+      "cost": 0.029955
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"hygrometer\",\n  \"reading\": 78,\n  \"unit\": \"% rel.\",\n  \"scale_max\": 100,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1707,
+      "out_tok": 58,
+      "cost": 0.029955
+    }
+  ],
+  "scale_001.jpg": [
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"bathroom scale\",\n  \"reading\": 90,\n  \"unit\": \"kg\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1707,
+      "out_tok": 55,
+      "cost": 0.02973
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"bathroom_scale\",\n  \"reading\": 90,\n  \"unit\": \"kg\",\n  \"scale_max\": 130,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1707,
+      "out_tok": 57,
+      "cost": 0.029879999999999997
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"bathroom_scale\",\n  \"reading\": 90,\n  \"unit\": \"kg\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1707,
+      "out_tok": 56,
+      "cost": 0.029804999999999998
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"bathroom_scale\",\n  \"reading\": 90,\n  \"unit\": \"kg\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1707,
+      "out_tok": 56,
+      "cost": 0.029804999999999998
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"bathroom scale\",\n  \"reading\": 90,\n  \"unit\": \"kg\",\n  \"scale_max\": 130,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1707,
+      "out_tok": 56,
+      "cost": 0.029804999999999998
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"bathroom_scale\",\n  \"reading\": 90,\n  \"unit\": \"kg\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1707,
+      "out_tok": 56,
+      "cost": 0.029804999999999998
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"bathroom scale\",\n  \"reading\": 90,\n  \"unit\": \"kg\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1707,
+      "out_tok": 55,
+      "cost": 0.02973
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"bathroom_scale\",\n  \"reading\": 90,\n  \"unit\": \"kg\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1707,
+      "out_tok": 56,
+      "cost": 0.029804999999999998
+    }
+  ],
+  "scale_002.jpg": [
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"postal scale\",\n  \"reading\": 0,\n  \"unit\": \"lb\",\n  \"scale_max\": 2,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1390,
+      "out_tok": 56,
+      "cost": 0.02505
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"postal scale\",\n  \"reading\": 0,\n  \"unit\": \"lb\",\n  \"scale_max\": 2,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1390,
+      "out_tok": 56,
+      "cost": 0.02505
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"postal scale\",\n  \"reading\": 0,\n  \"unit\": \"lb\",\n  \"scale_max\": 2,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1390,
+      "out_tok": 56,
+      "cost": 0.02505
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"postal scale\",\n  \"reading\": 0,\n  \"unit\": \"lb\",\n  \"scale_max\": 2,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1390,
+      "out_tok": 56,
+      "cost": 0.02505
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"postal scale\",\n  \"reading\": 0,\n  \"unit\": \"lb\",\n  \"scale_max\": 2,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1390,
+      "out_tok": 56,
+      "cost": 0.02505
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"postal scale\",\n  \"reading\": 0,\n  \"unit\": \"lb\",\n  \"scale_max\": 2,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1390,
+      "out_tok": 56,
+      "cost": 0.02505
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"postal scale\",\n  \"reading\": 0,\n  \"unit\": \"lb\",\n  \"scale_max\": 2,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1390,
+      "out_tok": 56,
+      "cost": 0.02505
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"postal scale\",\n  \"reading\": 0,\n  \"unit\": \"lb\",\n  \"scale_max\": 2,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1390,
+      "out_tok": 56,
+      "cost": 0.02505
+    }
+  ],
+  "speedometer_001.jpg": [
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"speedometer\",\n  \"reading\": 0,\n  \"unit\": \"MPH\",\n  \"scale_max\": 120,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1707,
+      "out_tok": 57,
+      "cost": 0.029879999999999997
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"speedometer\",\n  \"reading\": 0,\n  \"unit\": \"MPH\",\n  \"scale_max\": 120,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1707,
+      "out_tok": 57,
+      "cost": 0.029879999999999997
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"speedometer\",\n  \"reading\": 0,\n  \"unit\": \"MPH\",\n  \"scale_max\": 120,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1707,
+      "out_tok": 57,
+      "cost": 0.029879999999999997
     }
   ]
 }

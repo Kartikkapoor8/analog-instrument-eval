@@ -1,0 +1,888 @@
+{
+  "models": {
+    "opus": {
+      "per_image": [
+        {
+          "image": "clock_001.png",
+          "type": "analog_clock",
+          "gt": "12:25",
+          "unit": "time",
+          "n_correct": 0,
+          "n_total": 8,
+          "pass1": false,
+          "pass8": false,
+          "all_samples_same": false,
+          "all_wrong_deterministic": false,
+          "sample_diagnostics": [
+            {
+              "reading": "11:27",
+              "unit": "hours:minutes",
+              "confidence": "high",
+              "correct": false
+            },
+            {
+              "reading": "11:27",
+              "unit": "hours:minutes",
+              "confidence": "high",
+              "correct": false
+            },
+            {
+              "reading": "11:27",
+              "unit": "time",
+              "confidence": "high",
+              "correct": false
+            },
+            {
+              "reading": "11:27",
+              "unit": "hours:minutes",
+              "confidence": "high",
+              "correct": false
+            },
+            {
+              "reading": "11:27",
+              "unit": "hours:minutes",
+              "confidence": "high",
+              "correct": false
+            },
+            {
+              "reading": "11:27",
+              "unit": "hours:minutes",
+              "confidence": "high",
+              "correct": false
+            },
+            {
+              "reading": "11:27",
+              "unit": "hours:minutes",
+              "confidence": "high",
+              "correct": false
+            },
+            {
+              "reading": "11:27",
+              "unit": "hours:minutes",
+              "confidence": "high",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "image": "clock_002.png",
+          "type": "analog_clock",
+          "gt": "04:06",
+          "unit": "time",
+          "n_correct": 0,
+          "n_total": 8,
+          "pass1": false,
+          "pass8": false,
+          "all_samples_same": true,
+          "all_wrong_deterministic": true,
+          "sample_diagnostics": [
+            {
+              "reading": "07:07",
+              "unit": "hours:minutes",
+              "confidence": "medium",
+              "correct": false
+            },
+            {
+              "reading": "07:07",
+              "unit": "hours:minutes",
+              "confidence": "medium",
+              "correct": false
+            },
+            {
+              "reading": "07:07",
+              "unit": "hours:minutes",
+              "confidence": "medium",
+              "correct": false
+            },
+            {
+              "reading": "07:07",
+              "unit": "hours:minutes",
+              "confidence": "high",
+              "correct": false
+            },
+            {
+              "reading": "07:07",
+              "unit": "hours:minutes",
+              "confidence": "medium",
+              "correct": false
+            },
+            {
+              "reading": "07:07",
+              "unit": "hours:minutes",
+              "confidence": "medium",
+              "correct": false
+            },
+            {
+              "reading": "07:07",
+              "unit": "hours:minutes",
+              "confidence": "medium",
+              "correct": false
+            },
+            {
+              "reading": "07:07",
+              "unit": "hours:minutes",
+              "confidence": "medium",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "image": "clock_003.png",
+          "type": "analog_clock",
+          "gt": "08:10",
+          "unit": "time",
+          "n_correct": 0,
+          "n_total": 8,
+          "pass1": false,
+          "pass8": false,
+          "all_samples_same": false,
+          "all_wrong_deterministic": false,
+          "sample_diagnostics": [
+            {
+              "reading": "07:51",
+              "unit": "time",
+              "confidence": "medium",
+              "correct": false
+            },
+            {
+              "reading": "07:52",
+              "unit": "hours:minutes",
+              "confidence": "medium",
+              "correct": false
+            },
+            {
+              "reading": "07:52",
+              "unit": "time",
+              "confidence": "medium",
+              "correct": false
+            },
+            {
+              "reading": "07:51",
+              "unit": "time",
+              "confidence": "medium",
+              "correct": false
+            },
+            {
+              "reading": "07:37",
+              "unit": "hours:minutes",
+              "confidence": "medium",
+              "correct": false
+            },
+            {
+              "reading": "07:51",
+              "unit": "time",
+              "confidence": "medium",
+              "correct": false
+            },
+            {
+              "reading": "07:11",
+              "unit": "time",
+              "confidence": "medium",
+              "correct": false
+            },
+            {
+              "reading": "07:51",
+              "unit": "hours:minutes",
+              "confidence": "medium",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "image": "clock_004.png",
+          "type": "analog_clock",
+          "gt": "06:02",
+          "unit": "time",
+          "n_correct": 0,
+          "n_total": 8,
+          "pass1": false,
+          "pass8": false,
+          "all_samples_same": false,
+          "all_wrong_deterministic": false,
+          "sample_diagnostics": [
+            {
+              "reading": "11:30",
+              "unit": "hours",
+              "confidence": "high",
+              "correct": false
+            },
+            {
+              "reading": "11:30",
+              "unit": "hours",
+              "confidence": "high",
+              "correct": false
+            },
+            {
+              "reading": "11:30",
+              "unit": "hours",
+              "confidence": "high",
+              "correct": false
+            },
+            {
+              "reading": "11:30",
+              "unit": "hours:minutes",
+              "confidence": "high",
+              "correct": false
+            },
+            {
+              "reading": "11:30",
+              "unit": "hours",
+              "confidence": "high",
+              "correct": false
+            },
+            {
+              "reading": "11:30",
+              "unit": "hours:minutes",
+              "confidence": "high",
+              "correct": false
+            },
+            {
+              "reading": "11:30",
+              "unit": "hours",
+              "confidence": "high",
+              "correct": false
+            },
+            {
+              "reading": "11:30",
+              "unit": "hours",
+              "confidence": "high",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "image": "clock_005.png",
+          "type": "analog_clock",
+          "gt": "01:04",
+          "unit": "time",
+          "n_correct": 0,
+          "n_total": 8,
+          "pass1": false,
+          "pass8": false,
+          "all_samples_same": false,
+          "all_wrong_deterministic": false,
+          "sample_diagnostics": [
+            {
+              "reading": "12:33",
+              "unit": "hours:minutes",
+              "confidence": "high",
+              "correct": false
+            },
+            {
+              "reading": "01:27",
+              "unit": "hours:minutes",
+              "confidence": "high",
+              "correct": false
+            },
+            {
+              "reading": "01:27",
+              "unit": "hours:minutes",
+              "confidence": "medium",
+              "correct": false
+            },
+            {
+              "reading": "01:26",
+              "unit": "hours:minutes",
+              "confidence": "medium",
+              "correct": false
+            },
+            {
+              "reading": "12:33",
+              "unit": "hours:minutes",
+              "confidence": "high",
+              "correct": false
+            },
+            {
+              "reading": "12:33",
+              "unit": "hours",
+              "confidence": "high",
+              "correct": false
+            },
+            {
+              "reading": "01:27",
+              "unit": "hours:minutes",
+              "confidence": "high",
+              "correct": false
+            },
+            {
+              "reading": "01:26",
+              "unit": "hours:minutes",
+              "confidence": "high",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "image": "clock_006.png",
+          "type": "analog_clock",
+          "gt": "05:21",
+          "unit": "time",
+          "n_correct": 0,
+          "n_total": 8,
+          "pass1": false,
+          "pass8": false,
+          "all_samples_same": true,
+          "all_wrong_deterministic": true,
+          "sample_diagnostics": [
+            {
+              "reading": "07:22",
+              "unit": "hours:minutes",
+              "confidence": "medium",
+              "correct": false
+            },
+            {
+              "reading": "07:22",
+              "unit": "hours:minutes",
+              "confidence": "medium",
+              "correct": false
+            },
+            {
+              "reading": "07:22",
+              "unit": "hours:minutes",
+              "confidence": "medium",
+              "correct": false
+            },
+            {
+              "reading": "07:22",
+              "unit": "hours:minutes",
+              "confidence": "medium",
+              "correct": false
+            },
+            {
+              "reading": "07:22",
+              "unit": "hours:minutes",
+              "confidence": "medium",
+              "correct": false
+            },
+            {
+              "reading": "07:22",
+              "unit": "hours:minutes",
+              "confidence": "medium",
+              "correct": false
+            },
+            {
+              "reading": "07:22",
+              "unit": "hours:minutes",
+              "confidence": "medium",
+              "correct": false
+            },
+            {
+              "reading": "07:22",
+              "unit": "hours:minutes",
+              "confidence": "medium",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "image": "clock_007.png",
+          "type": "analog_clock",
+          "gt": "07:31",
+          "unit": "time",
+          "n_correct": 0,
+          "n_total": 8,
+          "pass1": false,
+          "pass8": false,
+          "all_samples_same": true,
+          "all_wrong_deterministic": true,
+          "sample_diagnostics": [
+            {
+              "reading": "07:37",
+              "unit": "hours:minutes",
+              "confidence": "high",
+              "correct": false
+            },
+            {
+              "reading": "07:37",
+              "unit": "hours:minutes",
+              "confidence": "high",
+              "correct": false
+            },
+            {
+              "reading": "07:37",
+              "unit": "hours:minutes",
+              "confidence": "high",
+              "correct": false
+            },
+            {
+              "reading": "07:37",
+              "unit": "hours:minutes",
+              "confidence": "high",
+              "correct": false
+            },
+            {
+              "reading": "07:37",
+              "unit": "hours:minutes",
+              "confidence": "high",
+              "correct": false
+            },
+            {
+              "reading": "07:37",
+              "unit": "hours:minutes",
+              "confidence": "high",
+              "correct": false
+            },
+            {
+              "reading": "07:37",
+              "unit": "hours:minutes",
+              "confidence": "high",
+              "correct": false
+            },
+            {
+              "reading": "07:37",
+              "unit": "hours:minutes",
+              "confidence": "high",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "image": "clock_008.png",
+          "type": "analog_clock",
+          "gt": "08:45",
+          "unit": "time",
+          "n_correct": 3,
+          "n_total": 8,
+          "pass1": true,
+          "pass8": true,
+          "all_samples_same": false,
+          "all_wrong_deterministic": false,
+          "sample_diagnostics": [
+            {
+              "reading": "08:45",
+              "unit": "hours",
+              "confidence": "high",
+              "correct": true
+            },
+            {
+              "reading": "08:45",
+              "unit": "hours:minutes",
+              "confidence": "high",
+              "correct": true
+            },
+            {
+              "reading": "08:45",
+              "unit": "hours:minutes",
+              "confidence": "high",
+              "correct": true
+            },
+            {
+              "reading": "03:30",
+              "unit": "hours",
+              "confidence": "high",
+              "correct": false
+            },
+            {
+              "reading": "03:30",
+              "unit": "hours",
+              "confidence": "high",
+              "correct": false
+            },
+            {
+              "reading": "05:45",
+              "unit": "hours:minutes",
+              "confidence": "high",
+              "correct": false
+            },
+            {
+              "reading": "03:30",
+              "unit": "hours:minutes",
+              "confidence": "high",
+              "correct": false
+            },
+            {
+              "reading": "03:30",
+              "unit": "hours:minutes",
+              "confidence": "high",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "image": "clock_009.jpg",
+          "type": "analog_clock",
+          "gt": "04:00",
+          "unit": "time",
+          "n_correct": 0,
+          "n_total": 8,
+          "pass1": false,
+          "pass8": false,
+          "all_samples_same": true,
+          "all_wrong_deterministic": true,
+          "sample_diagnostics": [
+            {
+              "reading": "10:22",
+              "unit": "time",
+              "confidence": "medium",
+              "correct": false
+            },
+            {
+              "reading": "10:22",
+              "unit": "time",
+              "confidence": "medium",
+              "correct": false
+            },
+            {
+              "reading": "10:22",
+              "unit": "time",
+              "confidence": "medium",
+              "correct": false
+            },
+            {
+              "reading": "10:22",
+              "unit": "time",
+              "confidence": "medium",
+              "correct": false
+            },
+            {
+              "reading": "10:22",
+              "unit": "time",
+              "confidence": "medium",
+              "correct": false
+            },
+            {
+              "reading": "10:22",
+              "unit": "time",
+              "confidence": "medium",
+              "correct": false
+            },
+            {
+              "reading": "10:22",
+              "unit": "time",
+              "confidence": "medium",
+              "correct": false
+            },
+            {
+              "reading": "10:22",
+              "unit": "time",
+              "confidence": "medium",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "image": "hygrometer_001.jpg",
+          "type": "hygrometer",
+          "gt": 75.0,
+          "unit": "rh",
+          "n_correct": 0,
+          "n_total": 8,
+          "pass1": false,
+          "pass8": false,
+          "all_samples_same": true,
+          "all_wrong_deterministic": true,
+          "sample_diagnostics": [
+            {
+              "reading": 78,
+              "unit": "% rel.",
+              "confidence": "high",
+              "correct": false
+            },
+            {
+              "reading": 78,
+              "unit": "% rel.",
+              "confidence": "medium",
+              "correct": false
+            },
+            {
+              "reading": 78,
+              "unit": "% rel.",
+              "confidence": "high",
+              "correct": false
+            },
+            {
+              "reading": 78,
+              "unit": "% rel.",
+              "confidence": "high",
+              "correct": false
+            },
+            {
+              "reading": 78,
+              "unit": "% rel.",
+              "confidence": "high",
+              "correct": false
+            },
+            {
+              "reading": 78,
+              "unit": "% rel.",
+              "confidence": "high",
+              "correct": false
+            },
+            {
+              "reading": 78,
+              "unit": "% rel.",
+              "confidence": "high",
+              "correct": false
+            },
+            {
+              "reading": 78,
+              "unit": "% rel.",
+              "confidence": "high",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "image": "scale_001.jpg",
+          "type": "bathroom_scale",
+          "gt": 85.0,
+          "unit": "kg",
+          "n_correct": 8,
+          "n_total": 8,
+          "pass1": true,
+          "pass8": true,
+          "all_samples_same": true,
+          "all_wrong_deterministic": false,
+          "sample_diagnostics": [
+            {
+              "reading": 90,
+              "unit": "kg",
+              "confidence": "medium",
+              "correct": true
+            },
+            {
+              "reading": 90,
+              "unit": "kg",
+              "confidence": "medium",
+              "correct": true
+            },
+            {
+              "reading": 90,
+              "unit": "kg",
+              "confidence": "medium",
+              "correct": true
+            },
+            {
+              "reading": 90,
+              "unit": "kg",
+              "confidence": "medium",
+              "correct": true
+            },
+            {
+              "reading": 90,
+              "unit": "kg",
+              "confidence": "medium",
+              "correct": true
+            },
+            {
+              "reading": 90,
+              "unit": "kg",
+              "confidence": "medium",
+              "correct": true
+            },
+            {
+              "reading": 90,
+              "unit": "kg",
+              "confidence": "medium",
+              "correct": true
+            },
+            {
+              "reading": 90,
+              "unit": "kg",
+              "confidence": "high",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "image": "scale_002.jpg",
+          "type": "postal_scale",
+          "gt": 0.0,
+          "unit": "oz",
+          "n_correct": 0,
+          "n_total": 8,
+          "pass1": false,
+          "pass8": false,
+          "all_samples_same": true,
+          "all_wrong_deterministic": true,
+          "sample_diagnostics": [
+            {
+              "reading": 0,
+              "unit": "lb",
+              "confidence": "high",
+              "correct": false
+            },
+            {
+              "reading": 0,
+              "unit": "lb",
+              "confidence": "high",
+              "correct": false
+            },
+            {
+              "reading": 0,
+              "unit": "lb",
+              "confidence": "high",
+              "correct": false
+            },
+            {
+              "reading": 0,
+              "unit": "lb",
+              "confidence": "high",
+              "correct": false
+            },
+            {
+              "reading": 0,
+              "unit": "lb",
+              "confidence": "high",
+              "correct": false
+            },
+            {
+              "reading": 0,
+              "unit": "lb",
+              "confidence": "high",
+              "correct": false
+            },
+            {
+              "reading": 0,
+              "unit": "lb",
+              "confidence": "high",
+              "correct": false
+            },
+            {
+              "reading": 0,
+              "unit": "lb",
+              "confidence": "high",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "image": "speedometer_001.jpg",
+          "type": "speedometer",
+          "gt": 0.0,
+          "unit": "mph",
+          "n_correct": 3,
+          "n_total": 3,
+          "pass1": true,
+          "pass8": true,
+          "all_samples_same": true,
+          "all_wrong_deterministic": false,
+          "sample_diagnostics": [
+            {
+              "reading": 0,
+              "unit": "MPH",
+              "confidence": "high",
+              "correct": true
+            },
+            {
+              "reading": 0,
+              "unit": "MPH",
+              "confidence": "high",
+              "correct": true
+            },
+            {
+              "reading": 0,
+              "unit": "MPH",
+              "confidence": "high",
+              "correct": true
+            }
+          ]
+        }
+      ],
+      "per_type": {
+        "analog_clock": {
+          "n": 9,
+          "p1": 1,
+          "p8": 1,
+          "samples_ok": 3,
+          "samples_total": 72,
+          "p1_pct": 11.1,
+          "p8_pct": 11.1,
+          "samples_pct": 4.2
+        },
+        "hygrometer": {
+          "n": 1,
+          "p1": 0,
+          "p8": 0,
+          "samples_ok": 0,
+          "samples_total": 8,
+          "p1_pct": 0.0,
+          "p8_pct": 0.0,
+          "samples_pct": 0.0
+        },
+        "scale": {
+          "n": 2,
+          "p1": 1,
+          "p8": 1,
+          "samples_ok": 8,
+          "samples_total": 16,
+          "p1_pct": 50.0,
+          "p8_pct": 50.0,
+          "samples_pct": 50.0
+        },
+        "speedometer": {
+          "n": 1,
+          "p1": 1,
+          "p8": 1,
+          "samples_ok": 3,
+          "samples_total": 3,
+          "p1_pct": 100.0,
+          "p8_pct": 100.0,
+          "samples_pct": 100.0
+        }
+      },
+      "overall": {
+        "n_images": 13,
+        "pass1": 3,
+        "pass1_pct": 23.1,
+        "pass8": 3,
+        "pass8_pct": 23.1,
+        "samples_ok": 14,
+        "samples_total": 99,
+        "sample_acc_pct": 14.1,
+        "format_compliance_pct": 100.0,
+        "n_deterministic_wrong": 6
+      },
+      "confidence": {
+        "correct_high": 7,
+        "correct_med": 7,
+        "correct_low": 0,
+        "wrong_high": 51,
+        "wrong_med": 34,
+        "wrong_low": 0
+      },
+      "format_compliance": 99,
+      "format_total": 99,
+      "deterministic_wrong": [
+        {
+          "image": "clock_002.png",
+          "type": "analog_clock",
+          "gt": "04:06",
+          "predicted": "07:07|hours:minutes"
+        },
+        {
+          "image": "clock_006.png",
+          "type": "analog_clock",
+          "gt": "05:21",
+          "predicted": "07:22|hours:minutes"
+        },
+        {
+          "image": "clock_007.png",
+          "type": "analog_clock",
+          "gt": "07:31",
+          "predicted": "07:37|hours:minutes"
+        },
+        {
+          "image": "clock_009.jpg",
+          "type": "analog_clock",
+          "gt": "04:00",
+          "predicted": "10:22|time"
+        },
+        {
+          "image": "hygrometer_001.jpg",
+          "type": "hygrometer",
+          "gt": 75.0,
+          "predicted": "78|% rel."
+        },
+        {
+          "image": "scale_002.jpg",
+          "type": "postal_scale",
+          "gt": 0.0,
+          "predicted": "0|lb"
+        }
+      ]
+    }
+  },
+  "manifest_size": 17,
+  "total_cost_usd": 0.0
+}
