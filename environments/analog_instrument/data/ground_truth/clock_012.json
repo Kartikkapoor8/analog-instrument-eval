@@ -1,0 +1,14 @@
+{
+  "image": "clock_012.jpg",
+  "instrument_type": "analog_clock",
+  "reading": "09:45",
+  "unit": "time",
+  "scale_max": null,
+  "source": "Wikimedia Commons File:Certina Caimano Bicolor.jpg",
+  "difficulty": "medium",
+  "tags": [
+    "real_photo",
+    "wristwatch"
+  ],
+  "verification_method": "Certina wristwatch. Minute hand points directly at the 9 marker (=45 minutes). Hour hand is also at the 9 area, just past 9 going toward 10, which is consistent with 9:45 (hour hand should be 3/4 between 9 and 10). High confidence."
+}

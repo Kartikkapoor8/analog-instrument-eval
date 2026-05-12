@@ -1,0 +1,15 @@
+{
+  "image": "tachometer_002.jpg",
+  "instrument_type": "tachometer",
+  "reading": 1000.0,
+  "unit": "rpm",
+  "scale_max": 8000.0,
+  "source": "Wikimedia Commons File:102 degrees in Tallahassee.jpg",
+  "difficulty": "easy",
+  "tags": [
+    "real_photo",
+    "automotive",
+    "kia"
+  ],
+  "verification_method": "Kia automotive tachometer labeled x1000rpm with scale 0 to 8. Red needle points clearly at the 1 marker, indicating 1000 RPM. Vehicle is in Drive but stationary (speedometer reads 0 MPH, which is shown separately on the digital display). High confidence."
+}

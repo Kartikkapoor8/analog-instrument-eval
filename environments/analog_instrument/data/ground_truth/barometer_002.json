@@ -1,0 +1,16 @@
+{
+  "image": "barometer_002.jpg",
+  "instrument_type": "barometer",
+  "reading": 1020.0,
+  "unit": "hpa",
+  "scale_max": 1070.0,
+  "source": "Wikimedia Commons File:Aneroid Barometer.jpg",
+  "difficulty": "easy",
+  "tags": [
+    "real_photo",
+    "hansaetic",
+    "hpa",
+    "fair"
+  ],
+  "verification_method": "Hansaetic Hamburg aneroid barometer with dual scales: outer mmHg 720-800 and inner hPa 960-1070. Black needle points to the boundary between Change and Fair, which corresponds to approximately 1020 hPa (also ~765 mmHg on outer scale). High confidence."
+}

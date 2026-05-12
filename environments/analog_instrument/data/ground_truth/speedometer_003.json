@@ -1,0 +1,16 @@
+{
+  "image": "speedometer_003.jpg",
+  "instrument_type": "speedometer",
+  "reading": 5.0,
+  "unit": "mph",
+  "scale_max": 60.0,
+  "source": "Wikimedia Commons File:1913 Ford Model T Speedster speedometer.JPG",
+  "difficulty": "medium",
+  "tags": [
+    "real_photo",
+    "vintage",
+    "ford_model_t",
+    "johns_manville"
+  ],
+  "verification_method": "1913 Ford Model T Johns-Manville speedometer. Scale runs 5, 10, 15... 60 mph. The black needle is pointing directly at the 5 marker on the left side of the dial. Odometer reads 04126 total. High confidence on needle position at 5 mph."
+}

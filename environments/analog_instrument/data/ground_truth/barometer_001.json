@@ -1,0 +1,15 @@
+{
+  "image": "barometer_001.jpg",
+  "instrument_type": "barometer",
+  "reading": 770.0,
+  "unit": "mmhg",
+  "scale_max": 790.0,
+  "source": "Wikimedia Commons File:1890s Barometer.JPG",
+  "difficulty": "medium",
+  "tags": [
+    "real_photo",
+    "antique",
+    "mmhg"
+  ],
+  "verification_method": "Antique 1890s aneroid barometer. Numeric scale visible: 720, 730, 740, 750, 760, 770, 780, 790. Black needle points directly between 770 and 780 mark, closer to 770. Reading approximately 770 mmHg. Weather labels (Variable, Bau Temps, Bau Fixe) confirm orientation. High confidence."
+}

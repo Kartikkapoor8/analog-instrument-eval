@@ -1,6 +1,6 @@
 {
   "image": "scale_002.jpg",
-  "instrument_type": "postal_scale",
+  "instrument_type": "scale",
   "reading": 0.0,
   "unit": "oz",
   "scale_max": 32.0,

@@ -1,0 +1,14 @@
+{
+  "image": "clock_011.jpg",
+  "instrument_type": "analog_clock",
+  "reading": "02:40",
+  "unit": "time",
+  "scale_max": null,
+  "source": "Wikimedia Commons File:Bentima Mechanical Wall Clock.jpg",
+  "difficulty": "easy",
+  "tags": [
+    "real_photo",
+    "decorative_wall_clock"
+  ],
+  "verification_method": "Brass decorative wall clock with Arabic numerals. Minute hand clearly points at the 8 (=40 minutes). Hour hand is close to 3 but a touch before, consistent with 2:40 (hour hand should be 2/3 between 2 and 3 at :40). High confidence."
+}

@@ -1,0 +1,15 @@
+{
+  "image": "clock_014.jpg",
+  "instrument_type": "analog_clock",
+  "reading": "10:10",
+  "unit": "time",
+  "scale_max": null,
+  "source": "Wikimedia Commons File:10h08m27s@SintraCP.jpg",
+  "difficulty": "easy",
+  "tags": [
+    "real_photo",
+    "station_clock",
+    "reguladora"
+  ],
+  "verification_method": "Reguladora wall clock at Sintra station. Minute hand points at the 2 marker (=10 minutes). Hour hand is just past the 10, consistent with 10:10. Filename also encodes the time. High confidence."
+}

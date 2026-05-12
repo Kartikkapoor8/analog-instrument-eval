@@ -1,0 +1,14 @@
+{
+  "image": "clock_013.jpg",
+  "instrument_type": "analog_clock",
+  "reading": "06:50",
+  "unit": "time",
+  "scale_max": null,
+  "source": "Wikimedia Commons File:1034 - Clock.jpg",
+  "difficulty": "easy",
+  "tags": [
+    "real_photo",
+    "red_wall_clock"
+  ],
+  "verification_method": "Red-framed Infinity wall clock with Arabic numerals. Minute hand points clearly at the 10 marker (=50 minutes). Hour hand is just before the 7, very close to it, consistent with 6:50 (hour hand should be 5/6 between 6 and 7). High confidence."
+}

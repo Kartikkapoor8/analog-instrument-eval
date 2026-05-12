@@ -1,0 +1,16 @@
+{
+  "image": "pressure_gauge_002.jpg",
+  "instrument_type": "pressure_gauge",
+  "reading": 100.0,
+  "unit": "mws",
+  "scale_max": 120.0,
+  "source": "Wikimedia Commons File:17-06-30-Suomenlinna-Vesikko RR73198.jpg",
+  "difficulty": "easy",
+  "tags": [
+    "real_photo",
+    "submarine",
+    "vintage",
+    "meters_water_column"
+  ],
+  "verification_method": "Submarine instrument: Schaffer and Budenberg pressure gauge labeled mW.S. (meters water column), scale 0 to 120. Black needle points squarely at the 100 mark on the right side of the dial. High confidence."
+}

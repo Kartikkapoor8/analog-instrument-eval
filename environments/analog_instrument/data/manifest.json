@@ -1,5 +1,30 @@
 [
   {
+    "image": "public/barometer_001.jpg",
+    "ground_truth_file": "barometer_001.json",
+    "instrument_type": "barometer",
+    "difficulty": "medium",
+    "tags": [
+      "real_photo",
+      "antique",
+      "mmhg"
+    ],
+    "source_kind": "public"
+  },
+  {
+    "image": "public/barometer_002.jpg",
+    "ground_truth_file": "barometer_002.json",
+    "instrument_type": "barometer",
+    "difficulty": "easy",
+    "tags": [
+      "real_photo",
+      "hansaetic",
+      "hpa",
+      "fair"
+    ],
+    "source_kind": "public"
+  },
+  {
     "image": "public/clock_001.png",
     "ground_truth_file": "clock_001.json",
     "instrument_type": "analog_clock",
@@ -112,6 +137,87 @@
     "source_kind": "public"
   },
   {
+    "image": "public/clock_010.jpg",
+    "ground_truth_file": "clock_010.json",
+    "instrument_type": "analog_clock",
+    "difficulty": "easy",
+    "tags": [
+      "real_photo",
+      "wall_clock",
+      "square"
+    ],
+    "source_kind": "public"
+  },
+  {
+    "image": "public/clock_011.jpg",
+    "ground_truth_file": "clock_011.json",
+    "instrument_type": "analog_clock",
+    "difficulty": "easy",
+    "tags": [
+      "real_photo",
+      "decorative_wall_clock"
+    ],
+    "source_kind": "public"
+  },
+  {
+    "image": "public/clock_012.jpg",
+    "ground_truth_file": "clock_012.json",
+    "instrument_type": "analog_clock",
+    "difficulty": "medium",
+    "tags": [
+      "real_photo",
+      "wristwatch"
+    ],
+    "source_kind": "public"
+  },
+  {
+    "image": "public/clock_013.jpg",
+    "ground_truth_file": "clock_013.json",
+    "instrument_type": "analog_clock",
+    "difficulty": "easy",
+    "tags": [
+      "real_photo",
+      "red_wall_clock"
+    ],
+    "source_kind": "public"
+  },
+  {
+    "image": "public/clock_014.jpg",
+    "ground_truth_file": "clock_014.json",
+    "instrument_type": "analog_clock",
+    "difficulty": "easy",
+    "tags": [
+      "real_photo",
+      "station_clock",
+      "reguladora"
+    ],
+    "source_kind": "public"
+  },
+  {
+    "image": "public/clock_015.jpg",
+    "ground_truth_file": "clock_015.json",
+    "instrument_type": "analog_clock",
+    "difficulty": "easy",
+    "tags": [
+      "real_photo",
+      "wall_clock",
+      "ea_combs"
+    ],
+    "source_kind": "public"
+  },
+  {
+    "image": "public/clock_016.jpg",
+    "ground_truth_file": "clock_016.json",
+    "instrument_type": "analog_clock",
+    "difficulty": "easy",
+    "tags": [
+      "real_photo",
+      "station_clock",
+      "kensington"
+    ],
+    "source_kind": "public"
+  },
+  {
     "image": "public/hygrometer_001.jpg",
     "ground_truth_file": "hygrometer_001.json",
     "instrument_type": "hygrometer",
@@ -124,9 +230,34 @@
     "source_kind": "public"
   },
   {
+    "image": "public/pressure_gauge_001.jpg",
+    "ground_truth_file": "pressure_gauge_001.json",
+    "instrument_type": "pressure_gauge",
+    "difficulty": "easy",
+    "tags": [
+      "real_photo",
+      "wika",
+      "industrial"
+    ],
+    "source_kind": "public"
+  },
+  {
+    "image": "public/pressure_gauge_002.jpg",
+    "ground_truth_file": "pressure_gauge_002.json",
+    "instrument_type": "pressure_gauge",
+    "difficulty": "easy",
+    "tags": [
+      "real_photo",
+      "submarine",
+      "vintage",
+      "meters_water_column"
+    ],
+    "source_kind": "public"
+  },
+  {
     "image": "public/scale_001.jpg",
     "ground_truth_file": "scale_001.json",
-    "instrument_type": "bathroom_scale",
+    "instrument_type": "scale",
     "difficulty": "hard",
     "tags": [
       "real_photo",
@@ -138,7 +269,7 @@
   {
     "image": "public/scale_002.jpg",
     "ground_truth_file": "scale_002.json",
-    "instrument_type": "postal_scale",
+    "instrument_type": "scale",
     "difficulty": "easy",
     "tags": [
       "real_photo",
@@ -168,6 +299,19 @@
       "real_photo",
       "motorcycle",
       "zero_reading"
+    ],
+    "source_kind": "public"
+  },
+  {
+    "image": "public/speedometer_003.jpg",
+    "ground_truth_file": "speedometer_003.json",
+    "instrument_type": "speedometer",
+    "difficulty": "medium",
+    "tags": [
+      "real_photo",
+      "vintage",
+      "ford_model_t",
+      "johns_manville"
     ],
     "source_kind": "public"
   },
@@ -205,6 +349,18 @@
       "real_photo",
       "dashboard",
       "off_zero"
+    ],
+    "source_kind": "public"
+  },
+  {
+    "image": "public/tachometer_002.jpg",
+    "ground_truth_file": "tachometer_002.json",
+    "instrument_type": "tachometer",
+    "difficulty": "easy",
+    "tags": [
+      "real_photo",
+      "automotive",
+      "kia"
     ],
     "source_kind": "public"
   }

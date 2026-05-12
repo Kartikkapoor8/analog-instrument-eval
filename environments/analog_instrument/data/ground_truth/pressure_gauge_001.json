@@ -1,0 +1,15 @@
+{
+  "image": "pressure_gauge_001.jpg",
+  "instrument_type": "pressure_gauge",
+  "reading": 18.0,
+  "unit": "bar",
+  "scale_max": 25.0,
+  "source": "Wikimedia Commons File:Bar gauge.jpg",
+  "difficulty": "easy",
+  "tags": [
+    "real_photo",
+    "wika",
+    "industrial"
+  ],
+  "verification_method": "WIKA EN 837-1 bar gauge, scale 0 to 25 bar. Black needle points between 15 and 20, clearly past the midpoint and aimed at the 18 mark. Reading is approximately 18 bar. High confidence."
+}

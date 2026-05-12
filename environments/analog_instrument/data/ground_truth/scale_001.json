@@ -1,6 +1,6 @@
 {
   "image": "scale_001.jpg",
-  "instrument_type": "bathroom_scale",
+  "instrument_type": "scale",
   "reading": 85.0,
   "unit": "kg",
   "scale_max": 130.0,
