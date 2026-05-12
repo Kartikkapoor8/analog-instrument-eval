@@ -1,0 +1,15 @@
+{
+  "image": "speedometer_001.jpg",
+  "instrument_type": "speedometer",
+  "reading": 0.0,
+  "unit": "mph",
+  "scale_max": 120.0,
+  "source": "Wikimedia Commons File:Jeep Odometer.jpg",
+  "difficulty": "easy",
+  "tags": [
+    "real_photo",
+    "dashboard",
+    "zero_reading"
+  ],
+  "verification_method": "vehicle parked; needle clearly at 0 on a 0-120 mph scale."
+}

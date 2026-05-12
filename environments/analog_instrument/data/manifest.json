@@ -1,0 +1,211 @@
+[
+  {
+    "image": "public/clock_001.png",
+    "ground_truth_file": "clock_001.json",
+    "instrument_type": "analog_clock",
+    "difficulty": "medium",
+    "tags": [
+      "synthetic",
+      "clockbench",
+      "easy"
+    ],
+    "source_kind": "public"
+  },
+  {
+    "image": "public/clock_002.png",
+    "ground_truth_file": "clock_002.json",
+    "instrument_type": "analog_clock",
+    "difficulty": "medium",
+    "tags": [
+      "synthetic",
+      "clockbench",
+      "easy"
+    ],
+    "source_kind": "public"
+  },
+  {
+    "image": "public/clock_003.png",
+    "ground_truth_file": "clock_003.json",
+    "instrument_type": "analog_clock",
+    "difficulty": "medium",
+    "tags": [
+      "synthetic",
+      "clockbench",
+      "easy"
+    ],
+    "source_kind": "public"
+  },
+  {
+    "image": "public/clock_004.png",
+    "ground_truth_file": "clock_004.json",
+    "instrument_type": "analog_clock",
+    "difficulty": "medium",
+    "tags": [
+      "synthetic",
+      "clockbench",
+      "easy"
+    ],
+    "source_kind": "public"
+  },
+  {
+    "image": "public/clock_005.png",
+    "ground_truth_file": "clock_005.json",
+    "instrument_type": "analog_clock",
+    "difficulty": "easy",
+    "tags": [
+      "synthetic",
+      "clockbench",
+      "easy",
+      "minute_numerals"
+    ],
+    "source_kind": "public"
+  },
+  {
+    "image": "public/clock_006.png",
+    "ground_truth_file": "clock_006.json",
+    "instrument_type": "analog_clock",
+    "difficulty": "medium",
+    "tags": [
+      "synthetic",
+      "clockbench",
+      "easy",
+      "minute_numerals"
+    ],
+    "source_kind": "public"
+  },
+  {
+    "image": "public/clock_007.png",
+    "ground_truth_file": "clock_007.json",
+    "instrument_type": "analog_clock",
+    "difficulty": "medium",
+    "tags": [
+      "synthetic",
+      "clockbench",
+      "easy",
+      "minute_numerals"
+    ],
+    "source_kind": "public"
+  },
+  {
+    "image": "public/clock_008.png",
+    "ground_truth_file": "clock_008.json",
+    "instrument_type": "analog_clock",
+    "difficulty": "medium",
+    "tags": [
+      "synthetic",
+      "clockbench",
+      "easy",
+      "minute_numerals"
+    ],
+    "source_kind": "public"
+  },
+  {
+    "image": "public/clock_009.jpg",
+    "ground_truth_file": "clock_009.json",
+    "instrument_type": "analog_clock",
+    "difficulty": "medium",
+    "tags": [
+      "real_photo",
+      "wall_clock",
+      "low_resolution"
+    ],
+    "source_kind": "public"
+  },
+  {
+    "image": "public/hygrometer_001.jpg",
+    "ground_truth_file": "hygrometer_001.json",
+    "instrument_type": "hygrometer",
+    "difficulty": "easy",
+    "tags": [
+      "real_photo",
+      "off_zero",
+      "dim_light"
+    ],
+    "source_kind": "public"
+  },
+  {
+    "image": "public/scale_001.jpg",
+    "ground_truth_file": "scale_001.json",
+    "instrument_type": "bathroom_scale",
+    "difficulty": "hard",
+    "tags": [
+      "real_photo",
+      "bathroom_scale",
+      "occluded"
+    ],
+    "source_kind": "public"
+  },
+  {
+    "image": "public/scale_002.jpg",
+    "ground_truth_file": "scale_002.json",
+    "instrument_type": "postal_scale",
+    "difficulty": "easy",
+    "tags": [
+      "real_photo",
+      "vintage_postal",
+      "zero_reading"
+    ],
+    "source_kind": "public"
+  },
+  {
+    "image": "public/speedometer_001.jpg",
+    "ground_truth_file": "speedometer_001.json",
+    "instrument_type": "speedometer",
+    "difficulty": "easy",
+    "tags": [
+      "real_photo",
+      "dashboard",
+      "zero_reading"
+    ],
+    "source_kind": "public"
+  },
+  {
+    "image": "public/speedometer_002.jpg",
+    "ground_truth_file": "speedometer_002.json",
+    "instrument_type": "speedometer",
+    "difficulty": "easy",
+    "tags": [
+      "real_photo",
+      "motorcycle",
+      "zero_reading"
+    ],
+    "source_kind": "public"
+  },
+  {
+    "image": "public/sphygmomanometer_001.jpg",
+    "ground_truth_file": "sphygmomanometer_001.json",
+    "instrument_type": "sphygmomanometer",
+    "difficulty": "easy",
+    "tags": [
+      "real_photo",
+      "bp_cuff",
+      "zero_reading",
+      "rotated"
+    ],
+    "source_kind": "public"
+  },
+  {
+    "image": "public/sphygmomanometer_002.jpg",
+    "ground_truth_file": "sphygmomanometer_002.json",
+    "instrument_type": "sphygmomanometer",
+    "difficulty": "easy",
+    "tags": [
+      "real_photo",
+      "bp_cuff",
+      "zero_reading"
+    ],
+    "source_kind": "public"
+  },
+  {
+    "image": "public/tachometer_001.jpg",
+    "ground_truth_file": "tachometer_001.json",
+    "instrument_type": "tachometer",
+    "difficulty": "medium",
+    "tags": [
+      "real_photo",
+      "dashboard",
+      "off_zero"
+    ],
+    "source_kind": "public"
+  }
+]

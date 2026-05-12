@@ -1,0 +1,60 @@
+{
+  "clock_001.png": [
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"11:27\",\n  \"unit\": \"hours:minutes\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 58,
+      "cost": 0.025935
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"11:27\",\n  \"unit\": \"hours:minutes\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 58,
+      "cost": 0.025935
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"11:27\",\n  \"unit\": \"time\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 56,
+      "cost": 0.025785
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"11:27\",\n  \"unit\": \"hours:minutes\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 58,
+      "cost": 0.025935
+    },
+    {
+      "text": "{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"11:27\",\n  \"unit\": \"hours:minutes\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}",
+      "in_tok": 1439,
+      "out_tok": 53,
+      "cost": 0.02556
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"11:27\",\n  \"unit\": \"hours:minutes\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 58,
+      "cost": 0.025935
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"11:27\",\n  \"unit\": \"hours:minutes\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 58,
+      "cost": 0.025935
+    },
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"11:27\",\n  \"unit\": \"hours:minutes\",\n  \"scale_max\": null,\n  \"confidence\": \"high\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 58,
+      "cost": 0.025935
+    }
+  ],
+  "clock_002.png": [
+    {
+      "text": "```json\n{\n  \"instrument_type\": \"clock\",\n  \"reading\": \"07:07\",\n  \"unit\": \"hours:minutes\",\n  \"scale_max\": null,\n  \"confidence\": \"medium\"\n}\n```",
+      "in_tok": 1439,
+      "out_tok": 58,
+      "cost": 0.025935
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "image": "clock_009.jpg",
+  "instrument_type": "analog_clock",
+  "reading": "04:00",
+  "unit": "time",
+  "scale_max": null,
+  "source": "Wikimedia Commons File:2021 — Drittte Juli-Reise Mateus2019 — Batch (9).jpg",
+  "difficulty": "medium",
+  "tags": ["real_photo", "wall_clock", "low_resolution"],
+  "verification_method": "small analog clock visible top-left of a cable car station sign. Hour hand on 4, minute hand on 12. Reading 4:00."
+}

@@ -1,0 +1,19 @@
+{
+  "image": "clock_005.png",
+  "instrument_type": "analog_clock",
+  "reading": "01:04",
+  "unit": "time",
+  "scale_max": null,
+  "source": "ClockBench public sample",
+  "difficulty": "easy",
+  "tags": [
+    "synthetic",
+    "clockbench",
+    "easy",
+    "minute_numerals"
+  ],
+  "verification_method": "clockbench: hours=1, minutes range [4,5]",
+  "ground_truth_alt": [
+    "01:05"
+  ]
+}

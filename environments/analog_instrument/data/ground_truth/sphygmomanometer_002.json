@@ -1,0 +1,15 @@
+{
+  "image": "sphygmomanometer_002.jpg",
+  "instrument_type": "sphygmomanometer",
+  "reading": 0.0,
+  "unit": "mmHg",
+  "scale_max": 300.0,
+  "source": "Wikimedia Commons File:Erka sphygmomanometer.jpg",
+  "difficulty": "easy",
+  "tags": [
+    "real_photo",
+    "bp_cuff",
+    "zero_reading"
+  ],
+  "verification_method": "cuff not pressurized; needle at 0 on 0-300 mmHg scale."
+}

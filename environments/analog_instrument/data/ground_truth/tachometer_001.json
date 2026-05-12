@@ -1,0 +1,15 @@
+{
+  "image": "tachometer_001.jpg",
+  "instrument_type": "tachometer",
+  "reading": 2200.0,
+  "unit": "rpm",
+  "scale_max": 14000.0,
+  "source": "Wikimedia Commons File:Hezery99-SYM SR125i digital meter.jpg",
+  "difficulty": "medium",
+  "tags": [
+    "real_photo",
+    "dashboard",
+    "off_zero"
+  ],
+  "verification_method": "scale labeled 'x1000 r/min' goes 0,2,4,6,8,10,12,14; needle is just past 2, around 2.2 (so ~2200 rpm). 5% band = +-700 rpm."
+}

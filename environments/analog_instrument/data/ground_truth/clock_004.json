@@ -1,0 +1,15 @@
+{
+  "image": "clock_004.png",
+  "instrument_type": "analog_clock",
+  "reading": "06:02",
+  "unit": "time",
+  "scale_max": null,
+  "source": "ClockBench public sample",
+  "difficulty": "medium",
+  "tags": [
+    "synthetic",
+    "clockbench",
+    "easy"
+  ],
+  "verification_method": "clockbench: hours=6, minutes=2"
+}

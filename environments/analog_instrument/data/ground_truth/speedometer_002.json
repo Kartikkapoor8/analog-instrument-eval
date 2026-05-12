@@ -1,0 +1,11 @@
+{
+  "image": "speedometer_002.jpg",
+  "instrument_type": "speedometer",
+  "reading": 0.0,
+  "unit": "kph",
+  "scale_max": 240.0,
+  "source": "Wikimedia Commons File:Suzuki gsf bandit 600 100000km.jpg",
+  "difficulty": "easy",
+  "tags": ["real_photo", "motorcycle", "zero_reading"],
+  "verification_method": "motorcycle parked, needle resting at 0 on a 0-240 km/h scale."
+}

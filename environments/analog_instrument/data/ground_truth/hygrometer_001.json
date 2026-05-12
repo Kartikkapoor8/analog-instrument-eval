@@ -1,0 +1,11 @@
+{
+  "image": "hygrometer_001.jpg",
+  "instrument_type": "hygrometer",
+  "reading": 75.0,
+  "unit": "rh",
+  "scale_max": 100.0,
+  "source": "Wikimedia Commons File:Hygrometer- dial type.jpg",
+  "difficulty": "easy",
+  "tags": ["real_photo", "off_zero", "dim_light"],
+  "verification_method": "Huger hygrometer 0-100% RH scale visible. Needle pointing between 70 and 80, closer to 75. 5% tolerance of 100 covers 70-80, so 75 is the safe center."
+}

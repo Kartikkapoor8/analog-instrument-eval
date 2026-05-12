@@ -1,0 +1,11 @@
+{
+  "image": "pressure_gauge_103.jpg",
+  "instrument_type": "pressure_gauge",
+  "reading": 45.0,
+  "unit": "psi",
+  "scale_max": 100.0,
+  "source": "personal",
+  "difficulty": "medium",
+  "tags": ["workplace", "off_zero", "real_photo"],
+  "verification_method": "label says 0-100 psi, needle centered between 40 and 50, my own read at high confidence"
+}

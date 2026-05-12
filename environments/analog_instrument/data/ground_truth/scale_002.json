@@ -1,0 +1,15 @@
+{
+  "image": "scale_002.jpg",
+  "instrument_type": "postal_scale",
+  "reading": 0.0,
+  "unit": "oz",
+  "scale_max": 32.0,
+  "source": "Wikimedia Commons File:Avery postal scale.JPG",
+  "difficulty": "easy",
+  "tags": [
+    "real_photo",
+    "vintage_postal",
+    "zero_reading"
+  ],
+  "verification_method": "pan empty; pointer at 0 on inland postal letter rates scale labeled 'to weigh 2 lb' (32 oz max)."
+}

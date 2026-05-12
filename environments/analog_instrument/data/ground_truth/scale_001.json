@@ -1,0 +1,15 @@
+{
+  "image": "scale_001.jpg",
+  "instrument_type": "bathroom_scale",
+  "reading": 85.0,
+  "unit": "kg",
+  "scale_max": 130.0,
+  "source": "Wikimedia Commons File:Personenwaage (fcm).jpg",
+  "difficulty": "hard",
+  "tags": [
+    "real_photo",
+    "bathroom_scale",
+    "occluded"
+  ],
+  "verification_method": "scale window shows numbers 80, 90, 100; needle positioned between 80 and 90, around 85. Tolerance 5% of 130 = +-6.5 covers 78.5 to 91.5 kg."
+}

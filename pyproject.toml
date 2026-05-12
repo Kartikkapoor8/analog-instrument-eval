@@ -1,0 +1,24 @@
+[project]
+name = "analog-instrument-eval"
+version = "0.1.0"
+description = "RL environment for analog instrument reading. Verifies frontier vision capability gap with deterministic scoring."
+requires-python = ">=3.10"
+dependencies = [
+    "verifiers>=0.1.12",
+    "datasets",
+    "anthropic>=0.99.0",
+    "pillow",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build]
+include = [
+    "environments/**/*",
+    "scripts/**/*",
+    "results/**/*",
+    "README.md",
+    "LICENSE",
+]
